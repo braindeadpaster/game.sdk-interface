@@ -1,3 +1,13 @@
-a very mid imgui loader made in 30 minutes for your cheat
+## Simple Loader built in C++ with Dear ImGui
+### Primarly meant for cheating software.
 
-https://cdn.discordapp.com/attachments/1521281776150904893/1521316207473590292/2026-06-29_20-44-28.mp4?ex=6a465de0&is=6a450c60&hm=30b51b767ceb61ade97a5ef0f31a3bb18411ba4c3162fbde86d05a46d258b55f&
+
+## Features
+
+
+### Smooth Typing
+
+### Easy Auth-Swap
+
+<img width="1524" height="659" alt="image" src="https://github.com/user-attachments/assets/1c2b485d-5c2d-4860-869f-cde6b9dabdab" />
+
