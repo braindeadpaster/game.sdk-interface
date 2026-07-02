@@ -13,6 +13,6 @@
 
 <img width="1428" height="709" alt="image" src="https://github.com/user-attachments/assets/6dc2db1c-b97b-4913-a0c3-8c76d8d2c5fd" />
 
+<video src="https://cdn.discordapp.com/attachments/1521281776150904893/1521316207473590292/2026-06-29_20-44-28.mp4?ex=6a465de0&is=6a450c60&hm=30b51b767ceb61ade97a5ef0f31a3bb18411ba4c3162fbde86d05a46d258b55f&" width="600" controls></video>   
 
-<img width="1428" height="709" alt="image" src="https://cdn.discordapp.com/attachments/1521281776150904893/1521316207473590292/2026-06-29_20-44-28.mp4?ex=6a465de0&is=6a450c60&hm=30b51b767ceb61ade97a5ef0f31a3bb18411ba4c3162fbde86d05a46d258b55f&" />
 
